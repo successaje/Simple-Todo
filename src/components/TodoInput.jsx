@@ -1,7 +1,9 @@
 export default function TodoInput() {
     return (
-        <div>
+        <header>
+            <input placeholder="What do you wanna do...." />
+            <button>Enter</button>
             TodoInput
-        </div>
+        </header>
     )
 }
