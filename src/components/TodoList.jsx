@@ -5,7 +5,9 @@ export default function TodoList() {
     let todos = [
         "Code today",
         "Code yesterday",
-        "code again tomorrow"
+        "code again tomorrow",
+        "Just adding this",
+        "And this as well"
     ]
 
   return (
